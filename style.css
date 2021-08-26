@@ -24,7 +24,7 @@ body{
 .box{
   width: 150px;
   height: 150px;
-  background-image: url(https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.6435-9/187472546_823695348238125_9132002918623013134_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tngshGz4EgkAX_28Jo6&tn=e3Ghnlm-VKpypGoA&_nc_ht=scontent.fsgn5-5.fna&oh=c845149058b05d87fc653f8001b816f7&oe=614CB9E0);
+  background-images: url(images/avatar.jpg);
   background-size: cover;
   border-radius: 50%;
   border: 2px solid #0396FF;
