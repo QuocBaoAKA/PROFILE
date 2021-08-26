@@ -20,6 +20,7 @@ body{
   border-radius: 25px;
   position: relative;
   transform: translate(50%);
+  margin-top: 15px;
 }
 .box{
   width: 150px;
